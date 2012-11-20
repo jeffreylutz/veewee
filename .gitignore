@@ -6,7 +6,6 @@ iso/*
 iso
 *.ova
 tmp/*
-definitions/*
 Vagrantfile
 Vagrantfile.*
 cookbooks/*
